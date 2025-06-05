@@ -1,0 +1,697 @@
+{
+  "quiz1": [
+    {
+      "question": "In a DC generator, the cause of sparking at brushes is:",
+      "options": [
+        "Low resistance of brushes",
+        "High armature speed",
+        "Armature reaction",
+        "High field current"
+      ],
+      "answer": 2,
+      "explanation": "Armature reaction distorts the main field flux, leading to sparking at brushes."
+    },
+    {
+      "question": "The function of a commutator in a DC machine is to:",
+      "options": [
+        "Reduce eddy current losses",
+        "Convert DC to AC",
+        "Convert AC to DC",
+        "Increase the current"
+      ],
+      "answer": 2,
+      "explanation": "The commutator converts the internally generated AC in the armature to DC at the output."
+    },
+    {
+      "question": "The RMS value of a sinusoidal current with peak value I₀ is:",
+      "options": [
+        "I₀",
+        "I₀/√2",
+        "I₀/2",
+        "I₀√2"
+      ],
+      "answer": 1,
+      "explanation": "RMS value of sinusoidal current is peak value divided by square root of 2."
+    },
+    {
+      "question": "Which law is used to analyze complex electrical circuits involving currents and voltages?",
+      "options": [
+        "Ohm’s Law",
+        "Kirchhoff’s Voltage Law (KVL)",
+        "Faraday’s Law",
+        "Coulomb’s Law"
+      ],
+      "answer": 1,
+      "explanation": "KVL states that the sum of voltages around any closed loop in a circuit is zero."
+    },
+    {
+      "question": "The purpose of a transformer is to:",
+      "options": [
+        "Increase voltage",
+        "Decrease voltage",
+        "Transfer electrical energy between circuits",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "Transformers transfer electrical energy between circuits and can increase or decrease voltage."
+    },
+    {
+      "question": "In a single-phase transformer, the core is made of:",
+      "options": [
+        "Copper",
+        "Iron",
+        "Aluminum",
+        "Plastic"
+      ],
+      "answer": 1,
+      "explanation": "The core is made of iron to provide a path for magnetic flux."
+    },
+    {
+      "question": "The time constant of an RL circuit is:",
+      "options": [
+        "L/R",
+        "R/L",
+        "1/RC",
+        "RC"
+      ],
+      "answer": 0,
+      "explanation": "Time constant τ = L/R in an RL circuit."
+    },
+    {
+      "question": "The unit of inductance is:",
+      "options": [
+        "Henry",
+        "Farad",
+        "Ohm",
+        "Tesla"
+      ],
+      "answer": 0,
+      "explanation": "Inductance is measured in Henry (H)."
+    },
+    {
+      "question": "Which of the following machines is self-starting?",
+      "options": [
+        "Synchronous motor",
+        "Induction motor",
+        "DC motor",
+        "Stepper motor"
+      ],
+      "answer": 1,
+      "explanation": "Induction motors are self-starting."
+    },
+    {
+      "question": "The power factor of a purely inductive AC circuit is:",
+      "options": [
+        "1",
+        "0",
+        "0.5",
+        "0.707"
+      ],
+      "answer": 1,
+      "explanation": "Power factor is zero in purely inductive circuit because voltage and current are 90° out of phase."
+    },
+    {
+      "question": "Which instrument is used to measure electric current?",
+      "options": [
+        "Voltmeter",
+        "Ammeter",
+        "Wattmeter",
+        "Ohmmeter"
+      ],
+      "answer": 1,
+      "explanation": "An ammeter measures electric current."
+    },
+    {
+      "question": "The main advantage of a three-phase system over a single-phase system is:",
+      "options": [
+        "Less conductor material",
+        "Higher power transmission",
+        "Constant power delivery",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "Three-phase systems use less conductor material, transmit more power, and provide constant power delivery."
+    },
+    {
+      "question": "In a synchronous motor, the speed is:",
+      "options": [
+        "Less than synchronous speed",
+        "Equal to synchronous speed",
+        "Greater than synchronous speed",
+        "Zero"
+      ],
+      "answer": 1,
+      "explanation": "A synchronous motor runs at synchronous speed."
+    },
+    {
+      "question": "The basic working principle of an electrical machine is based on:",
+      "options": [
+        "Electrostatics",
+        "Electromagnetic induction",
+        "Thermodynamics",
+        "Magnetostatics"
+      ],
+      "answer": 1,
+      "explanation": "Electrical machines work on electromagnetic induction."
+    },
+    {
+      "question": "In a DC motor, the back EMF is:",
+      "options": [
+        "In phase with armature current",
+        "Opposed to applied voltage",
+        "Same as supply voltage",
+        "None of the above"
+      ],
+      "answer": 1,
+      "explanation": "Back EMF opposes the applied voltage in a DC motor."
+    },
+    {
+      "question": "The efficiency of a transformer is generally:",
+      "options": [
+        "50-60%",
+        "60-70%",
+        "80-90%",
+        "95-99%"
+      ],
+      "answer": 3,
+      "explanation": "Transformers typically have efficiency between 95% and 99%."
+    },
+    {
+      "question": "The stator of an induction motor produces:",
+      "options": [
+        "Rotating magnetic field",
+        "Static magnetic field",
+        "AC voltage",
+        "DC voltage"
+      ],
+      "answer": 0,
+      "explanation": "The stator winding produces a rotating magnetic field."
+    },
+    {
+      "question": "Which device protects electrical circuits from overload?",
+      "options": [
+        "Fuse",
+        "Transformer",
+        "Capacitor",
+        "Inductor"
+      ],
+      "answer": 0,
+      "explanation": "A fuse protects circuits by breaking the circuit during overload."
+    },
+    {
+      "question": "The main purpose of earthing is to:",
+      "options": [
+        "Protect from electric shock",
+        "Improve power factor",
+        "Increase voltage",
+        "None of the above"
+      ],
+      "answer": 0,
+      "explanation": "Earthing provides safety by preventing electric shock."
+    },
+    {
+      "question": "A wattmeter measures:",
+      "options": [
+        "Voltage",
+        "Current",
+        "Power",
+        "Resistance"
+      ],
+      "answer": 2,
+      "explanation": "A wattmeter measures electric power."
+    },
+    {
+      "question": "The relationship between voltage, current, and resistance is given by:",
+      "options": [
+        "Ohm’s Law",
+        "Kirchhoff’s Law",
+        "Faraday’s Law",
+        "Lenz’s Law"
+      ],
+      "answer": 0,
+      "explanation": "Ohm’s Law states V = IR."
+    },
+    {
+      "question": "In an AC circuit, the reactance of a capacitor is:",
+      "options": [
+        "Directly proportional to frequency",
+        "Inversely proportional to frequency",
+        "Independent of frequency",
+        "Zero"
+      ],
+      "answer": 1,
+      "explanation": "Capacitive reactance decreases with increasing frequency."
+    },
+    {
+      "question": "The purpose of a choke in an electrical circuit is to:",
+      "options": [
+        "Block DC",
+        "Block AC",
+        "Store energy",
+        "Reduce current"
+      ],
+      "answer": 1,
+      "explanation": "A choke blocks AC but allows DC to pass."
+    },
+    {
+      "question": "Which of the following is a ferromagnetic material?",
+      "options": [
+        "Copper",
+        "Aluminum",
+        "Iron",
+        "Plastic"
+      ],
+      "answer": 2,
+      "explanation": "Iron is ferromagnetic."
+    },
+    {
+      "question": "The instrument used to measure resistance is:",
+      "options": [
+        "Ammeter",
+        "Voltmeter",
+        "Wheatstone bridge",
+        "Wattmeter"
+      ],
+      "answer": 2,
+      "explanation": "Wheatstone bridge is used to measure unknown resistance."
+    },
+    {
+      "question": "Which law states that induced EMF is proportional to the rate of change of magnetic flux?",
+      "options": [
+        "Ohm’s Law",
+        "Faraday’s Law",
+        "Lenz’s Law",
+        "Kirchhoff’s Law"
+      ],
+      "answer": 1,
+      "explanation": "Faraday’s Law describes electromagnetic induction."
+    },
+    {
+      "question": "The synchronous speed of a 4-pole, 50 Hz motor is:",
+      "options": [
+        "1500 RPM",
+        "3000 RPM",
+        "1000 RPM",
+        "1200 RPM"
+      ],
+      "answer": 0,
+      "explanation": "Ns = 120f/P = 120*50/4 = 1500 RPM."
+    },
+    {
+      "question": "Which component is used to smooth DC output from a rectifier?",
+      "options": [
+        "Resistor",
+        "Inductor",
+        "Capacitor",
+        "Transformer"
+      ],
+      "answer": 2,
+      "explanation": "Capacitor filters ripples in DC output."
+    },
+    {
+      "question": "The back EMF in a DC motor increases with:",
+      "options": [
+        "Increase in speed",
+        "Decrease in speed",
+        "Increase in current",
+        "Decrease in flux"
+      ],
+      "answer": 0,
+      "explanation": "Back EMF is proportional to speed."
+    },
+    {
+      "question": "In a three-phase system, the phase voltage is related to line voltage by:",
+      "options": [
+        "Vph = VL",
+        "Vph = VL/√3",
+        "Vph = √3 VL",
+        "Vph = VL/2"
+      ],
+      "answer": 1,
+      "explanation": "In star connection, phase voltage is line voltage divided by √3."
+    },
+    {
+      "question": "The unit of electrical conductivity is:",
+      "options": [
+        "Siemens",
+        "Siemens/meter",
+        "Ohm",
+        "Ohm-meter"
+      ],
+      "answer": 1,
+      "explanation": "Conductivity unit is Siemens per meter (S/m)."
+    },
+    {
+      "question": "In power systems, reactive power is measured in:",
+      "options": [
+        "Watts",
+        "Volt-amperes",
+        "Volt-amperes reactive",
+        "Ohms"
+      ],
+      "answer": 2,
+      "explanation": "Reactive power is measured in VAR."
+    },
+    {
+      "question": "A capacitor connected across a motor supply line improves:",
+      "options": [
+        "Power factor",
+        "Efficiency",
+        "Speed",
+        "Torque"
+      ],
+      "answer": 0,
+      "explanation": "Capacitor corrects power factor by supplying leading current."
+    },
+    {
+      "question": "The torque produced in a DC motor is proportional to:",
+      "options": [
+        "Armature current",
+        "Field current",
+        "Both armature and field currents",
+        "Speed"
+      ],
+      "answer": 2,
+      "explanation": "Torque ∝ armature current × field current."
+    },
+    {
+      "question": "Which device converts mechanical energy into electrical energy?",
+      "options": [
+        "Motor",
+        "Generator",
+        "Transformer",
+        "Rectifier"
+      ],
+      "answer": 1,
+      "explanation": "A generator converts mechanical to electrical energy."
+    },
+    {
+      "question": "The no-load current in a transformer is mostly consumed by:",
+      "options": [
+        "Copper losses",
+        "Iron losses",
+        "Mechanical losses",
+        "Dielectric losses"
+      ],
+      "answer": 1,
+      "explanation": "No-load current mainly supplies iron losses and magnetizing current."
+    },
+    {
+      "question": "Which instrument is used to measure power in an AC circuit?",
+      "options": [
+        "Voltmeter",
+        "Ammeter",
+        "Wattmeter",
+        "Oscilloscope"
+      ],
+      "answer": 2,
+      "explanation": "Wattmeter measures power in AC circuits."
+    },
+    {
+      "question": "The direction of induced current in a conductor is given by:",
+      "options": [
+        "Faraday’s Law",
+        "Lenz’s Law",
+        "Ohm’s Law",
+        "Kirchhoff’s Law"
+      ],
+      "answer": 1,
+      "explanation": "Lenz’s Law states induced current opposes the change causing it."
+    },
+    {
+      "question": "In an inductive circuit, the current lags the voltage by:",
+      "options": [
+        "0°",
+        "45°",
+        "90°",
+        "180°"
+      ],
+      "answer": 2,
+      "explanation": "Current lags voltage by 90° in a purely inductive circuit."
+    },
+    {
+      "question": "Which of the following is used for voltage regulation in power systems?",
+      "options": [
+        "Transformer tap changer",
+        "Capacitor bank",
+        "Inductor bank",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "All listed devices help in voltage regulation."
+    }
+  ],
+        
+  "quiz2": [
+    {
+      "question": "Which material is commonly used as the conductor in electrical wiring?",
+      "options": [
+        "Copper",
+        "Aluminum",
+        "Gold",
+        "Silver"
+      ],
+      "answer": 0,
+      "explanation": "Copper is widely used for electrical wiring due to its excellent conductivity and availability."
+    },
+    {
+      "question": "The power dissipated in a resistor is given by:",
+      "options": [
+        "P = VI",
+        "P = I²R",
+        "P = V²/R",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "All formulas are correct depending on which quantities are known."
+    },
+    {
+      "question": "The term 'hysteresis loss' in transformers is related to:",
+      "options": [
+        "Copper loss",
+        "Iron loss",
+        "Mechanical loss",
+        "Stray loss"
+      ],
+      "answer": 1,
+      "explanation": "Hysteresis loss occurs due to reversal of magnetization in the core material."
+    },
+    {
+      "question": "Which type of motor is widely used in electric vehicles?",
+      "options": [
+        "Induction motor",
+        "Synchronous motor",
+        "DC series motor",
+        "Stepper motor"
+      ],
+      "answer": 0,
+      "explanation": "Induction motors are commonly used due to their robustness and efficiency."
+    },
+    {
+      "question": "The phasor diagram represents:",
+      "options": [
+        "Time variation of voltage and current",
+        "Amplitude and phase relationship between AC quantities",
+        "Frequency response",
+        "Power flow in circuits"
+      ],
+      "answer": 1,
+      "explanation": "Phasor diagrams show magnitude and phase relationships of sinusoidal signals."
+    },
+    {
+      "question": "A star-connected 3-phase load has phase voltage Vph and line voltage VL, the relation between line current IL and phase current Iph is:",
+      "options": [
+        "IL = Iph",
+        "IL = √3 Iph",
+        "IL = Iph / √3",
+        "IL = 2 Iph"
+      ],
+      "answer": 0,
+      "explanation": "In star connection, line current equals phase current."
+    },
+    {
+      "question": "The main reason for using a starter in a DC motor is to:",
+      "options": [
+        "Reduce starting current",
+        "Increase torque",
+        "Change direction of rotation",
+        "Increase speed"
+      ],
+      "answer": 0,
+      "explanation": "Starters limit the initial high current to protect the motor and supply."
+    },
+    {
+      "question": "In an ideal transformer, the power input is:",
+      "options": [
+        "Greater than output power",
+        "Equal to output power",
+        "Less than output power",
+        "Zero"
+      ],
+      "answer": 1,
+      "explanation": "Ideal transformer is lossless, input power equals output power."
+    },
+    {
+      "question": "The SI unit of magnetic flux is:",
+      "options": [
+        "Tesla",
+        "Weber",
+        "Henry",
+        "Gauss"
+      ],
+      "answer": 1,
+      "explanation": "Magnetic flux is measured in Weber (Wb)."
+    },
+    {
+      "question": "In an RLC series circuit at resonance, the impedance is:",
+      "options": [
+        "Maximum",
+        "Minimum and purely resistive",
+        "Zero",
+        "Purely inductive"
+      ],
+      "answer": 1,
+      "explanation": "At resonance, inductive and capacitive reactances cancel, leaving only resistance."
+    },
+    {
+      "question": "The slip of an induction motor at synchronous speed is:",
+      "options": [
+        "Zero",
+        "One",
+        "Between 0 and 1",
+        "Infinite"
+      ],
+      "answer": 0,
+      "explanation": "Slip = 0 means rotor speed equals synchronous speed."
+    },
+    {
+      "question": "Which device converts AC voltage to DC voltage?",
+      "options": [
+        "Rectifier",
+        "Inverter",
+        "Transformer",
+        "Generator"
+      ],
+      "answer": 0,
+      "explanation": "Rectifiers convert AC to DC."
+    },
+    {
+      "question": "The breakdown voltage of air at normal conditions is approximately:",
+      "options": [
+        "3 kV/mm",
+        "30 kV/mm",
+        "300 V/mm",
+        "0.3 kV/mm"
+      ],
+      "answer": 0,
+      "explanation": "Air breaks down electrically at about 3 kilovolts per millimeter gap."
+    },
+    {
+      "question": "The unit of capacitance is:",
+      "options": [
+        "Henry",
+        "Farad",
+        "Ohm",
+        "Tesla"
+      ],
+      "answer": 1,
+      "explanation": "Capacitance is measured in Farads (F)."
+    },
+    {
+      "question": "Which of the following is a lagging power factor load?",
+      "options": [
+        "Resistive load",
+        "Capacitive load",
+        "Inductive load",
+        "None"
+      ],
+      "answer": 2,
+      "explanation": "Inductive loads cause current to lag voltage, producing a lagging power factor."
+    },
+    {
+      "question": "The mutual inductance between two coils depends on:",
+      "options": [
+        "Distance between coils",
+        "Number of turns",
+        "Core material",
+        "All of the above"
+      ],
+      "answer": 3,
+      "explanation": "All these factors influence mutual inductance."
+    },
+    {
+      "question": "The iron losses in a transformer consist of:",
+      "options": [
+        "Hysteresis and eddy current losses",
+        "Copper losses",
+        "Mechanical losses",
+        "Stray losses"
+      ],
+      "answer": 0,
+      "explanation": "Iron losses are due to magnetic hysteresis and induced eddy currents."
+    },
+    {
+      "question": "Which is the primary source of mechanical losses in electrical machines?",
+      "options": [
+        "Bearing friction",
+        "Air friction (windage)",
+        "Brush friction",
+        "Both 1 and 2"
+      ],
+      "answer": 3,
+      "explanation": "Mechanical losses mainly come from bearing friction and air friction."
+    },
+    {
+      "question": "In a 3-phase squirrel cage induction motor, the rotor winding is:",
+      "options": [
+        "Wound winding",
+        "Short-circuited bars",
+        "Open circuited",
+        "Connected to external circuit"
+      ],
+      "answer": 1,
+      "explanation": "Rotor consists of bars short-circuited by end rings."
+    },
+    {
+      "question": "The synchronous reactance of a synchronous machine is:",
+      "options": [
+        "Reactance due to armature winding only",
+        "Reactance due to field winding only",
+        "Combined reactance of armature and field",
+        "None of the above"
+      ],
+      "answer": 0,
+      "explanation": "It mainly represents armature reaction and leakage reactance."
+    },
+    {
+      "question": "The function of a capacitor in a motor starting circuit is to:",
+      "options": [
+        "Increase starting torque",
+        "Reduce starting current",
+        "Improve power factor",
+        "None of the above"
+      ],
+      "answer": 0,
+      "explanation": "Starting capacitors create phase shift, producing higher starting torque."
+    },
+    {
+      "question": "In a three-phase induction motor, the rotor frequency is:",
+      "options": [
+        "Zero at synchronous speed",
+        "Equal to supply frequency",
+        "Equal to slip frequency",
+        "Always higher than supply frequency"
+      ],
+      "answer": 2,
+      "explanation": "Rotor frequency = slip × supply frequency."
+    },
+    {
+      "question": "Which of the following is not a loss in transformers?",
+      "options": [
+        "Copper loss",
+        "Iron loss",
+        "Mechanical loss",
+        "Friction loss"
+      ],
+      "answer": 3,
+      "explanation": "Transformers have negligible friction 
